@@ -26,3 +26,4 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/learning-sql-programming-8382385
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875059/2875059-1615828190111-16x9.jpg
+# SQL_PROJECTS
